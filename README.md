@@ -46,9 +46,9 @@ go run main.go -h
 
 ### Improvements
 
-- [] Add sound
-- [] Add debugger (to help visualize program execution)
-- [] Create a CHIP-8 game
+- [ ] Add sound
+- [ ] Add debugger (to help visualize program execution)
+- [ ] Create a CHIP-8 game
 
 ### References
 
